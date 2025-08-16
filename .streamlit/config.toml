@@ -1,0 +1,11 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+primaryColor = "#ff0000ff"             # Vibrant purple
+backgroundColor = "#0D0B1A"          # Very dark purple-tinted black
+secondaryBackgroundColor = "#1A1628" # Dark violet grey
+textColor = "#FFFFFF"
+font = "sans serif"
